@@ -21,6 +21,8 @@
 - [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 - [Yak shaving conditional compilation in Rust](https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/)
+- [Creating an Iterator in Rust](https://aloso.github.io/2021/03/09/creating-an-iterator#_an-owned-iterator)
+
 ## Async
 
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
@@ -41,6 +43,7 @@
 - [Fast Thread Locals In Rust](https://matklad.github.io//2020/10/03/fast-thread-locals-in-rust.html)
 - [Linker-plugin-LTO](https://doc.rust-lang.org/rustc/linker-plugin-lto.html)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+- [Soak: a struct-of-arrays library in Rust](https://www.abubalay.com/blog/2019/02/16/struct-of-arrays)
 
 ## Machine Learning
 
