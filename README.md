@@ -22,12 +22,22 @@
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 - [Yak shaving conditional compilation in Rust](https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/)
 - [Creating an Iterator in Rust](https://aloso.github.io/2021/03/09/creating-an-iterator#_an-owned-iterator)
+- [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
+- [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
+
+## Traits/ Object-Safety
+
+- [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
+- [3 Things to Try When You Can't Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
+- [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 
 ## Async
 
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 - [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 - [Rust live coding - Tower deep dive](https://www.youtube.com/watch?v=16sU1q8OeeI)
+- [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
+- [RustLatam 2019 - Without Boats: Zero-Cost Async IO](https://www.youtube.com/watch?v=skos4B5x7qE)
 
 ## Performance/Optimizations
 
