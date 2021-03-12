@@ -24,6 +24,8 @@
 - [Creating an Iterator in Rust](https://aloso.github.io/2021/03/09/creating-an-iterator#_an-owned-iterator)
 - [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
 - [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
+- [Where to put the turbofish](https://matematikaadit.github.io/posts/rust-turbofish.html)
+- [impl Trait for returning complex types with ease](https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/impl-trait-for-returning-complex-types-with-ease.html)
 
 ## Traits/ Object-Safety
 
