@@ -26,6 +26,11 @@
 - [Rusts Universes](https://aloso.github.io/2021/03/10/rusts-universes.html)
 - [Where to put the turbofish](https://matematikaadit.github.io/posts/rust-turbofish.html)
 - [impl Trait for returning complex types with ease](https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/impl-trait-for-returning-complex-types-with-ease.html)
+- [Arenas in Rust](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/)
+- [Implementing RAII guards in Rust](https://aloso.github.io/2021/03/18/raii-guards.html)
+- [Planck ECS: A Minimalistic Yet Performant Entity-Component-System Library](https://jojolepro.com/blog/2021-01-13_planck_ecs/)
+- [Iterating over Results](https://doc.rust-lang.org/rust-by-example/error/iter_result.html)
+- [Making Great Docs with Rustdoc](https://www.tangramvision.com/blog/making-great-docs-with-rustdoc)
 
 ## Traits/ Object-Safety
 
@@ -66,6 +71,7 @@
 - [Rust on iOS with SDL2](https://blog.aclysma.com/rust-on-ios-with-sdl2/)
 - [cargo-mobile: Rust on mobile made easy!](https://dev.brainiumstudios.com/2020/11/24/cargo-mobile.html)
 - [Rusty Days 2020 - Jan-Erik Rediger: Leveraging Rust to build cross-platform mobile libraries](https://www.youtube.com/watch?v=j5rczOF7pzg)
+- [Running hardware-in-the-loop tests on GitHub Actions](https://ferrous-systems.com/blog/gha-hil-tests/)
 
 ## FFI
 
