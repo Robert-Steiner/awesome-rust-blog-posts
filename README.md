@@ -72,6 +72,7 @@
 - [cargo-mobile: Rust on mobile made easy!](https://dev.brainiumstudios.com/2020/11/24/cargo-mobile.html)
 - [Rusty Days 2020 - Jan-Erik Rediger: Leveraging Rust to build cross-platform mobile libraries](https://www.youtube.com/watch?v=j5rczOF7pzg)
 - [Running hardware-in-the-loop tests on GitHub Actions](https://ferrous-systems.com/blog/gha-hil-tests/)
+- [Building an (almost entirely) rust iOS app using uikit-sys](https://simlay.net/posts/using-uikit-sys/)
 
 ## FFI
 
