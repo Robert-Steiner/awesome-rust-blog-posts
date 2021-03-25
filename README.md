@@ -73,6 +73,8 @@
 - [Rusty Days 2020 - Jan-Erik Rediger: Leveraging Rust to build cross-platform mobile libraries](https://www.youtube.com/watch?v=j5rczOF7pzg)
 - [Running hardware-in-the-loop tests on GitHub Actions](https://ferrous-systems.com/blog/gha-hil-tests/)
 - [Building an (almost entirely) rust iOS app using uikit-sys](https://simlay.net/posts/using-uikit-sys/)
+- [Cross-platform Rust](https://medium.com/visly/cross-platform-rust-406fddd0185b)
+- [Introducing Polyhorn Preview](https://polyhorn.com/blog/2020/09/25/welcome)
 
 ## FFI
 
