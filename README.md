@@ -86,6 +86,10 @@
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/07_ffi.html)
 - [Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/)
 
+## WASM
+
+- [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
+
 ## Miscellaneous
 (not about Rust, but still awesome nonetheless)
 
