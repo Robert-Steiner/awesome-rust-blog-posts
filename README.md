@@ -61,6 +61,7 @@
 - [Linker-plugin-LTO](https://doc.rust-lang.org/rustc/linker-plugin-lto.html)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 - [Soak: a struct-of-arrays library in Rust](https://www.abubalay.com/blog/2019/02/16/struct-of-arrays)
+- [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/)
 
 ## Machine Learning
 
@@ -75,6 +76,8 @@
 - [Building an (almost entirely) rust iOS app using uikit-sys](https://simlay.net/posts/using-uikit-sys/)
 - [Cross-platform Rust](https://medium.com/visly/cross-platform-rust-406fddd0185b)
 - [Introducing Polyhorn Preview](https://polyhorn.com/blog/2020/09/25/welcome)
+- [Rust Integrated Dart](https://thlorenz.com/rid-site/)
+- [Running Rust on Android](https://blog.svgames.pl/article/running-rust-on-android)
 
 ## FFI
 
@@ -94,6 +97,8 @@
 (not about Rust, but still awesome nonetheless)
 
 - [Randy Shoup - Moving Fast at Scale](https://www.youtube.com/watch?v=kzmVnW_TGpc)
+- [Object Files and Symbols](http://nickdesaulniers.github.io/blog/2016/08/13/object-files-and-symbols/)
+- [Library order in static linking](https://eli.thegreenplace.net/2013/07/09/library-order-in-static-linking)
 
 ## More blog posts
 
