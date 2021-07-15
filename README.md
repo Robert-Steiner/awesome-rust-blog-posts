@@ -94,6 +94,7 @@
 - [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
 - [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - [Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
+- [Using WebAssembly threads from C, C++ and Rust](https://web.dev/webassembly-threads/)
 
 ## Miscellaneous
 (not about Rust, but still awesome nonetheless)
